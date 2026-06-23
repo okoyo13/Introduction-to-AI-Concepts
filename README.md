@@ -40,6 +40,7 @@ How to Get Started
 When applying what you've learned, begin with topics such as MNIST (handwritten digit recognition).
 Useful Links
 https://docs.pytorch.org/tutorials/index.html 
+
 https://www.tensorflow.org/guide/keras
 ## Computer vision
 <!-- [Team Member 3 Name] will write this section -->
