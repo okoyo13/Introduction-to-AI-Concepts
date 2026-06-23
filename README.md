@@ -22,37 +22,8 @@ Machine Learning (ML) is a part of AI where computers look at data to find rules
 
 There are four main types of machine learning you need to know.
 
-### Types of ML
+## Computer vision
+<!-- [Team Member 3 Name] will write this section -->
 
-| ML Type | Definition | What It Contains | Practical Example |
-| :--- | :--- | :--- | :--- |
-| **Supervised Learning** | Training a model using data where the correct answers are already given. | **Contains:** Structured data, clear labels, a known input, and an expected output. | Using old test scores to predict a student's final grades. |
-| **Unsupervised Learning** | Giving the computer data without any labels or answers to see what it finds. | **Contains:** Unlabeled raw data, with no known answers or hidden structures provided. | Grouping customer accounts based on similar shopping habits. |
-| **Semi-Supervised Learning** | Mixing a tiny bit of labeled data with a huge amount of unlabeled data. | **Contains:** Both supervised and unsupervised data structures together. | Labeling a few fraud examples in a massive pile of regular bank records. |
-| **Reinforcement Learning** | Letting a computer agent learn by trying things out in a live environment. | **Contains:** A loop where the agent takes actions and gets positive or negative feedback. | Teaching an AI bot to play a football game by rewarding it for scoring. |
-## Neural network
-<!-- [kunyerachristie-droid] will write this section -->
-
-## Computer Vision
-<!-- [okoyo13] will write this section -->**Computer vision** is a field of artificial intelligence that trains computers to interpret and understand the visual world. By analyzing *digital images and videos*, models translate grids of raw pixel values into meaningful concepts. Using deep learning architectures like Convolutional Neural Networks (CNNs), computer vision systems automate tasks like image classification, object detection, and facial recognition, essentially giving eyes to machines.
-
-### Why Students Should Learn It
-- You can build impressive, functional vision projects using just a standard smartphone camera or a cheap webcam.
-- Access to millions of free labeled images makes training custom models simple and fast.
-- It is the core engine behind many modern tech startups, from automated retail to agricultural drone tracking.
-- Moving away from boring command-line scripts keeps student engagement and learning motivation high.
-- It applies directly to non-tech fields like environmental tracking, art history, and sports analytics.
-
-### How to Get Started
-1. Master the fundamental Python library used for image loading, resizing, color conversion, and manipulation.
-2. Learn how mathematical convolution matrices (kernels) slide across images to extract edges and shapes.
-3. Use standard architectures like YOLO (You Only Look Once) or ResNet to quickly detect objects out of the box.
-4. Gather a custom set of images and use free tools to draw bounding boxes around objects.
-5. Use PyTorch or TensorFlow to train your custom object detector on your annotated image set.
-
-### Useful Links
-- https://yolov8.org/yolov8-documentation/: The easiest, fastest state-of-the-art framework for real-time object detection and segmentation.
-- https://universe.roboflow.com/: A massive, free repository of computer vision datasets and annotation tools tailored for students.
-
-## NPL
-<!-- [collinsnderitugitonga] will write this section -->
+## NLP
+<!-- [Team Member 4 Name] will write this section -->
