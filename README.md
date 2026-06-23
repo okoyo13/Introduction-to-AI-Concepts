@@ -1,30 +1,40 @@
 # Introduction-to-AI-Concepts
-
-A collaborative guide by .
+A collaborative guide by:
 - loki12345george-cmd
 - kunyerachristie-droid
 - okoyo13
-- collinsnderitugitonga.
+- collinsnderitugitonga
 
 ## Table of Contents
 - Introduction(#introduction)
 - Machine learning(#machine learning)
 - Neural network(#neural network)
-- Computer vision(#computer vision)
+- Computer Vision(#computer vision)
 - NLP(#NPL)
+
 ## Introduction
-Artificial Intelligence (AI) is a field of computer science that focuses on building smart systems capable of performing tasks that typically require human intelligence. Instead of following rigid, pre-programmed instructions, AI systems analyze data, recognize patterns, make decisions, and improve from experience. This guide covers Introduction to AI Concepts.
+Artificial Intelligence (AI) is a field of computer science that focuses on building smart systems capable of performing tasks that typically require human intelligence. Instead of following rigid, pre-programmed instructions, AI systems analyze data, recognize patterns, make decisions, and improve from experience.This guide covers Introduction to AI Concepts.
 (Each section is written by a different team member.)
 
 ## Machine learning
-<!-- [Team Member 1 Name] will write this section -->
+<!-- [loki12345george-cmd] will write this section -->## Introduction to Machine Learning
+Machine Learning (ML) is a part of AI where computers look at data to find rules on their own, instead of someone writing code for every single step. This helps the computer make accurate predictions.
 
+There are four main types of machine learning you need to know.
+
+### Types of ML
+
+| ML Type | Definition | What It Contains | Practical Example |
+| :--- | :--- | :--- | :--- |
+| **Supervised Learning** | Training a model using data where the correct answers are already given. | **Contains:** Structured data, clear labels, a known input, and an expected output. | Using old test scores to predict a student's final grades. |
+| **Unsupervised Learning** | Giving the computer data without any labels or answers to see what it finds. | **Contains:** Unlabeled raw data, with no known answers or hidden structures provided. | Grouping customer accounts based on similar shopping habits. |
+| **Semi-Supervised Learning** | Mixing a tiny bit of labeled data with a huge amount of unlabeled data. | **Contains:** Both supervised and unsupervised data structures together. | Labeling a few fraud examples in a massive pile of regular bank records. |
+| **Reinforcement Learning** | Letting a computer agent learn by trying things out in a live environment. | **Contains:** A loop where the agent takes actions and gets positive or negative feedback. | Teaching an AI bot to play a football game by rewarding it for scoring. |
 ## Neural network
-<!-- [Team Member 2 Name] will write this section -->
+<!-- [kunyerachristie-droid] will write this section -->
 
-## Computer vision
-
-**Computer vision** is a field of artificial intelligence that trains computers to interpret and understand the visual world. By analyzing *digital images and videos*, models translate grids of raw pixel values into meaningful concepts. Using deep learning architectures like Convolutional Neural Networks (CNNs), computer vision systems automate tasks like image classification, object detection, and facial recognition, essentially giving eyes to machines.
+## Computer Vision
+<!-- [okoyo13] will write this section -->**Computer vision** is a field of artificial intelligence that trains computers to interpret and understand the visual world. By analyzing *digital images and videos*, models translate grids of raw pixel values into meaningful concepts. Using deep learning architectures like Convolutional Neural Networks (CNNs), computer vision systems automate tasks like image classification, object detection, and facial recognition, essentially giving eyes to machines.
 
 ### Why Students Should Learn It
 - You can build impressive, functional vision projects using just a standard smartphone camera or a cheap webcam.
@@ -44,5 +54,5 @@ Artificial Intelligence (AI) is a field of computer science that focuses on buil
 - https://yolov8.org/yolov8-documentation/: The easiest, fastest state-of-the-art framework for real-time object detection and segmentation.
 - https://universe.roboflow.com/: A massive, free repository of computer vision datasets and annotation tools tailored for students.
 
-## NLP
-<!-- [Team Member 3 Name] will write this section -->
+## NPL
+<!-- [collinsnderitugitonga] will write this section -->
