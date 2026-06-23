@@ -23,7 +23,7 @@ Artificial Intelligence (AI) is a field of computer science that focuses on buil
 <!-- [kunyerachristie-droid] will write this section -->
 
 ## Computer Vision
-<!-- [okoyo13] will write this section -->1234
+<!-- [okoyo13] will write this section -->
 
 ## NPL
 <!-- [collinsnderitugitonga] will write this section -->
