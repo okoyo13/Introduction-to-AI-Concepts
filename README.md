@@ -1,26 +1,26 @@
 # Introduction-to-AI-Concepts
-
-A collaborative guide by .
+A collaborative guide by:
 - loki12345george-cmd
 - kunyerachristie-droid
 - okoyo13
-- collinsnderitugitonga.
+- collinsnderitugitonga
 
 ## Table of Contents
 - Introduction(#introduction)
 - Machine learning(#machine learning)
 - Neural network(#neural network)
-- Computer vision(#computer vision)
+- Computer Vision(#computer vision)
 - NLP(#NPL)
+
 ## Introduction
-Artificial Intelligence (AI) is a field of computer science that focuses on building smart systems capable of performing tasks that typically require human intelligence. Instead of following rigid, pre-programmed instructions, AI systems analyze data, recognize patterns, make decisions, and improve from experience. This guide covers Introduction to AI Concepts.
+Artificial Intelligence (AI) is a field of computer science that focuses on building smart systems capable of performing tasks that typically require human intelligence. Instead of following rigid, pre-programmed instructions, AI systems analyze data, recognize patterns, make decisions, and improve from experience.This guide covers Introduction to AI Concepts.
 (Each section is written by a different team member.)
 
 ## Machine learning
-<!-- [Team Member 1 Name] will write this section -->
+<!-- [loki12345george-cmd] will write this section -->## Introduction to Machine Learning
+Machine Learning (ML) is a part of AI where computers look at data to find rules on their own, instead of someone writing code for every single step. This helps the computer make accurate predictions.
 
-## Neural network
-<!-- [Team Member 2 Name] will write this section -->
+There are four main types of machine learning you need to know.
 
 ## Computer vision
 <!-- [Team Member 3 Name] will write this section -->
