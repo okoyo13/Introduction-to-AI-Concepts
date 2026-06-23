@@ -38,7 +38,9 @@ How to Get Started
 3. Understand the concept of forward propagation, Back propagation, Loss functions.
 3. Learn to write simple models using simple tools (PyTorch or TensorFlow).
 When applying what you've learned, begin with topics such as MNIST (handwritten digit recognition).
+
 Useful Links
+
 https://docs.pytorch.org/tutorials/index.html 
 
 https://www.tensorflow.org/guide/keras
