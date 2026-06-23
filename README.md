@@ -1,6 +1,4 @@
 # Introduction-to-AI-Concepts
-This guide covers Introduction-to-AI-Concepts that one should know about.
-Each section is written by a different team member.
 A collaborative guide by:
 - loki12345george-cmd
 - kunyerachristie-droid
@@ -15,8 +13,8 @@ A collaborative guide by:
 - NLP(#NPL)
 
 ## Introduction
-This guide covers Introduction to AI Concepts.
-Each section is written by a different team member.
+Artificial Intelligence (AI) is a field of computer science that focuses on building smart systems capable of performing tasks that typically require human intelligence. Instead of following rigid, pre-programmed instructions, AI systems analyze data, recognize patterns, make decisions, and improve from experience.This guide covers Introduction to AI Concepts.
+(Each section is written by a different team member.)
 
 ## Machine learning
 <!-- [loki12345george-cmd] will write this section -->
