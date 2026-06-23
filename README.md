@@ -22,6 +22,9 @@ Machine Learning (ML) is a part of AI where computers look at data to find rules
 
 There are four main types of machine learning you need to know.
 
+## Neural network(#neural network)
+<!-- [Team Member 2 Name] will write this section -->
+
 ## Computer vision
 <!-- [Team Member 3 Name] will write this section -->
 
