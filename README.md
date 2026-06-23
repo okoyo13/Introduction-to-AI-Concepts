@@ -23,8 +23,25 @@ Machine Learning (ML) is a part of AI where computers look at data to find rules
 There are four main types of machine learning you need to know.
 
 ## Neural network
-<!-- [Team Member 2 Name] will write this section -->
+Neural network
+An AI model that emulates the functioning of the human brain is known as a neural network. It learns patterns in data by stacked layers of interconnected nodes (neurons). It learns from its mistakes by a process called back propagation, using mathematical weights and biases and activation functions. This enables it to handle complex jobs such as picture identification, text manufacturing, and anticipating analytics.
+Why Students Should Learn It
+They are able to solve problems that are complex and non-linear, which are not easily solved by code.
+These libraries are free and open-source, allowing anyone to create models in their own homes.
+The command of them presents opportunities in top-paying AI engineering and data science positions.
+They advance scientific advancements in fields such as medicine, climate change, and physics.
+Students will be able to carry out repetitive tasks that are uninteresting, such as data entry or sorting operations, automatically.
 
+How to Get Started
+1.  Understand and learn the basics of syntax, loops, and Python's data processing libraries such as NumPy and Pandas.
+2. Study basic linear algebra, calculus and probability concepts.
+3. Understand the concept of forward propagation, Back propagation, Loss functions.
+3. Learn to write simple models using simple tools (PyTorch or TensorFlow).
+When applying what you've learned, begin with topics such as MNIST (handwritten digit recognition).
+You can format the "Useful Links" section like this:
+Useful Links
+   https://docs.pytorch.org/tutorials/index.html 
+https://www.tensorflow.org/guide/keras
 ## Computer vision
 <!-- [Team Member 3 Name] will write this section -->
 
