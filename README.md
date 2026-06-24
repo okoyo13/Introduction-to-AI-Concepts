@@ -78,3 +78,26 @@ https://www.tensorflow.org/guide/keras
 ### Useful Links
 - https://yolov8.org/yolov8-documentation/: The easiest, fastest state-of-the-art framework for real-time object detection and segmentation.
 - https://universe.roboflow.com/: A massive, free repository of computer vision datasets and annotation tools tailored for students.
+
+- ## NLP
+
+**Natural Language Processing** (NLP) is a branch of Artificial Intelligence that helps computers understand, interpret and generate human language.
+It combines linguistics with machine learningto process text or speech data and deriv meaningful insights.
+
+### Why Students Should Use It
+- It is a high-demand skill in AI and data science.
+- It enables one to build chatbots, translators and text classifiers.
+- It helps in analyzing social media, customer feedback and documents.
+- It is widely used in search engines, voice assistants.
+
+### How to Get Started
+1. Learn python programming (basics to intermediate level)
+2. Learn core NLP concepts (tokens, stop words, etc)
+3. Practice using NLP libraries like NLTK.
+4.Build simple projects like a sentiment analyzer or chatbot.
+5.Keep learning and explore advanced topics like transformers and LLMs
+
+### Useful Links
+- [NLTK Documentation](https://www.nltk.org/)
+- [spaCy Documentation](https://spacy.io/)
+
