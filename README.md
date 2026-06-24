@@ -37,7 +37,7 @@ There are four main types of machine learning you need to know.
 ## Machine Learning Types Diagram 
 https://miro.medium.com/v2/resize:fit:1400/0*LOgwpVDBM6A6yqGS.png
 
-# Importing essential libraries for Machine Learning
+# Importing essential libraries for Machine Learning 
 ```python
 import numpy as np
 import pandas as pd
