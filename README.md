@@ -35,7 +35,7 @@ There are four main types of machine learning you need to know.
 | **Reinforcement Learning** | Letting a computer agent learn by trying things out in a live environment. | **Contains:** A loop where the agent takes actions and gets positive or negative feedback. | Teaching an AI bot to play a football game by rewarding it for scoring. |
 
 ## Machine Learning Types Diagram
-https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmedium.com%2F%40victorfanjos%2Fwhat-is-ai-specifically-what-is-machine-learning-ae155f31351b&ved=0CBYQjRxqFwoTCLDz58Don5UDFQAAAAAdAAAAABA3&opi=89978449
+https://miro.medium.com/v2/resize:fit:1400/0*LOgwpVDBM6A6yqGS.png
 
 
 ## Neural network
