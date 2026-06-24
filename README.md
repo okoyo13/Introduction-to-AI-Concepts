@@ -34,7 +34,7 @@ There are four main types of machine learning you need to know.
 | **Semi-Supervised Learning** | Mixing a tiny bit of labeled data with a huge amount of unlabeled data. | **Contains:** Both supervised and unsupervised data structures together. | Labeling a few fraud examples in a massive pile of regular bank records. |
 | **Reinforcement Learning** | Letting a computer agent learn by trying things out in a live environment. | **Contains:** A loop where the agent takes actions and gets positive or negative feedback. | Teaching an AI bot to play a football game by rewarding it for scoring. |
 
-## Machine Learning Types Diagram
+## Machine Learning Types Diagram 
 https://miro.medium.com/v2/resize:fit:1400/0*LOgwpVDBM6A6yqGS.png
 
 
