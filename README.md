@@ -33,7 +33,10 @@ There are four main types of machine learning you need to know.
 | **Unsupervised Learning** | Giving the computer data without any labels or answers to see what it finds. | **Contains:** Unlabeled raw data, with no known answers or hidden structures provided. | Grouping customer accounts based on similar shopping habits. |
 | **Semi-Supervised Learning** | Mixing a tiny bit of labeled data with a huge amount of unlabeled data. | **Contains:** Both supervised and unsupervised data structures together. | Labeling a few fraud examples in a massive pile of regular bank records. |
 | **Reinforcement Learning** | Letting a computer agent learn by trying things out in a live environment. | **Contains:** A loop where the agent takes actions and gets positive or negative feedback. | Teaching an AI bot to play a football game by rewarding it for scoring. |
-![Machine Learning Types Overview](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Machine_learning_types_overview.svg/800px-Machine_learning_types_overview.svg.png)
+
+##![Machine Learning Types Diagram]
+(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Machine_learning_paradigms.png/800px-Machine_learning_paradigms.png)
+
 
 ## Neural network
 Neural network
